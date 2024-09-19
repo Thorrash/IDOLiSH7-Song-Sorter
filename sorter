@@ -19,341 +19,341 @@
  
 var namMember = new Array(
  
-"MONSTER GENERATiON - IDOLiSH7",
+"MONSTER GENERATiON<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/b/bc/MONSTER_GENERATiON_%28App_Edit%29.png\">",
 
-"Joker Flag - IDOLiSH7",
+"Joker Flag<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/c/c5/Joker_Flag.png\">",
 
-"MEMORiES MELODiES - IDOLiSH7",
+"MEMORiES MELODiES<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/a/a9/MEMORiES_MELODiES.png\">",
 
-"SECRET NIGHT - TRIGGER",
+"SECRET NIGHT<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/f/f5/SECRET_NIGHT_%28App_Edit%29.png\">",
 
-"NATSU しおぜ - TRIGGER",
+"NATSU しおぜ - TRIGGER<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/4/48/NATSU%E2%98%86Shiyouze%21_%28TRIGGER_Version%29.png\">",
 
-"Leopard Eyes - TRIGGER",
+"Leopard Eyes<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/5/5e/Leopard_Eyes.png\">",
 
-"GOOD NIGHT AWESOME - IDOLiSH7",
+"GOOD NIGHT AWESOME<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/b/bb/GOOD_NIGHT_AWESOME_%28Single%29.png\">",
 
-"ピタゴラス ファイタ- - Mitsuki, Nagi, Yamato",
+"ピタゴラス ファイタ-<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/5/56/Pythagoras%E2%98%86Fighter_%28Single%29.png\">",
 
-"Fly Away! - Riku & Iori",
+"Fly Away!<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/c/cf/Fly_away%21_%28Single%29.png\">",
 
-"恋のかけら - MEZZO''",
+"恋のかけら<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/5/53/Koi_no_Kakera_%28Single%29.png\">",
 
-"miss you... - MEZZO''",
+"miss you...<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/0/07/Miss_you..._%28App_Edit%29.png\">",
 
-"SILVER SKY - Re:vale",
+"SILVER SKY<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/9/9a/SILVER_SKY.png\">",
 
-"Dis one. - Re:vale",
+"Dis one.<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/5/5f/Dis_one..png\">",
 
-"NATSU しおぜ - IDOLiSH7",
+"NATSU しおぜ - IDOLiSH7<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/2/2b/NATSU%E2%98%86Shiyouze%21_%28IDOLiSH7_Version%29_%28Single%29.png\">",
 
-"NATSU しおぜ - IDOLiSH7 & TRIGGER",
+"NATSU しおぜ - IDOLiSH7 & TRIGGER<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/2/2e/NATSU%E2%98%86Shiyouze%21_%28IDOLiSH7_feat._TRIGGER_Version%29.png\">",
 
-"Perfection Gimmick  - IDOLiSH7",
+"Perfection Gimmick<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/7/76/Perfection_Gimmick.png\">",
 
-"RESTART POiNTER - IDOLiSH7",
+"RESTART POiNTER<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/d/d7/RESTART_POiNTER.png\">",
 
-"THE FUNKY UNIVERSE - IDOLiSH7",
+"THE FUNKY UNIVERSE<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/4/45/THE_FUNKY_UNIVERSE.png\">",
 
-"THANK YOU FOR YOUR EVERYTHING - IDOLiSH7",
+"THANK YOU FOR YOUR EVERYTHING<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/1/1e/THANK_YOU_FOR_YOUR_EVERYTHING%21.png\">",
 
-"Last Dimension - TRIGGER",
+"Last Dimension<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/e/e0/Last_Dimension_%28Single%29.png\">",
 
-"男子タルモノ！～MATSURI～ - Nagi, Mitsuki, Yamato, Gaku",
+"男子タルモノ！～MATSURI～<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/2/27/Danshi_Tarumono%21_~MATSURI~_%28Single%29.png\">",
 
-"LOVE&GAME - Sogo, Tamaki, Ryunosuke",
+"LOVE&GAME<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/c/c3/LOVE%26GAME_%28Single%29.png\">",
 
-"フレフレ！青春賛歌 - Riku, Tenn, Iori",
+"フレフレ！青春賛歌<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/3/3d/Furefure%21_Seishun_Sanka_%28Single%29.png\">",
 
-"TO MY DEAREST - Re:vale",
+"TO MY DEAREST<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/8/8b/TO_MY_DEAREST.png\">",
 
-"月明かりイルミネイト - MEZZO''",
+"月明かりイルミネイト (Tsukiakari Illuminate)<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/0/05/Tsukiakari_Illuminate.png\">",
 
-"Sakura Message - IDOLiSH7",
+"Sakura Message<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/d/df/Sakura_Message.png\">",
 
-"PARTY TIME TOGETHER - IDOLiSH7",
+"PARTY TIME TOGETHER<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/e/e3/PARTY_TIME_TOGETHER.png\">",
 
-"Poisonous Gangster - ZOOL",
+"Poisonous Gangster<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/d/d7/Poisonous_Gangster.png\">",
 
-"LOOK AT... - ZOOL",
+"LOOK AT... - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/5/59/LOOK_AT....png\">",
 
-"願いはShine On The Sea - TRIGGER",
+"願いはShine On The Sea<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/5/58/Negai_wa_Shine_On_The_Sea.png\">",
 
-"In the meantime - TRIGGER",
+"In the meantime<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/a/a5/In_the_meantime.png\">",
 
-"DAYBREAK INTERLUDE - TRIGGER",
+"DAYBREAK INTERLUDE<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/8/85/DAYBREAK_INTERLUDE.png\">",
 
-"DESTINY - TRIGGER",
+"DESTINY<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/e/e4/DESTINY.png\">",
 
-"Riskyな彼女 - Ryunosuke Solo",
+"Riskyな彼女<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/0/00/Risky_na_Kanojo.png\">",
 
-"幸せでいて - Gaku Solo",
+"幸せでいて<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/b/b8/Shiawase_de_Ite.png\">",
 
-"U COMPLETE ME - Tenn Solo",
+"U COMPLETE ME<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/4/46/U_COMPLETE_ME.png\">",
 
-"Dear Butterfly - MEZZO''",
+"Dear Butterfly<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/d/d3/Dear_Butterfly.png\">",
 
-"NO DOUBT - Re:vale",
+"NO DOUBT<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/e/ee/NO_DOUBT.png\">",
 
-"太陽のEsperanza - Re:vale",
+"太陽のEsperanza<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/3/31/Taiyo_no_Esperanza.png\">",
 
-"ONE dream - Iori Solo",
+"ONE dream<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/f/f9/ONE_dream.png\">",
 
-"WiSH VOYAGE - IDOLiSH7",
+"WiSH VOYAGE<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/a/a2/WiSH_VOYAGE.png\">",
 
-"Dancing BEAT! - IDOLiSH7",
+"Dancing∞BEAT!!<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/7/7d/Dancing%E2%88%9EBEAT%21%21.png\">",
 
-"Love two you - Yamato Solo",
+"Love two you<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/9/9f/Love_two_you.png\">",
 
-"Heavenly Visitor - TRIGGER",
+"Heavenly Visitor<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/b/b2/Heavenly_Visitor.png\">",
 
-"DIAMOND FUSION - TRIGGER",
+"DIAMOND FUSION<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/1/13/DIAMOND_FUSION.png\">",
 
-"三日月のヴェール - Mitsuki Solo",
+"三日月のヴェール<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/e/e8/Mikazuki_no_Veil.png\">",
 
-"雨 - MEZZO''",
+"雨 (Rain)<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/9/9a/Ame.png\">",
 
-"甘さひかえめ - MEZZO''",
+"甘さひかえめ (Amasa Hikaeme)<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/0/09/Amasa_Hikaeme.png\">",
 
-"Four Leaf Ring - Tamaki Solo",
+"Four Leaf Ring<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/2/29/Four_Leaf_Ring.png\">",
 
-"Maybe - Sogo Solo",
+"Maybe <br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/1/1a/Maybe.png\">",
 
-"ナナツイロ REALiZE - IDOLiSH7",
+"ナナツイロ REALiZE<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/d/d3/Nanatsuiro_REALiZE_%28Single%29.png\">",
 
-"Viva! Fantastic Life!!!!!!! - IDOLiSH7",
+"Viva! Fantastic Life!!!!!!!<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/4/4c/Viva%21_Fantastic_Life%21%21%21%21%21%21%21.png\">",
 
-"June is Natural - Nagi Solo",
+"June is Natural<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/b/bd/June_is_Natural.png\">",
 
-"SEPTET for... - Riku Solo",
+"SEPTET for...<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/4/49/SEPTET_for....png\">",
 
-"Up to the nines - Tenn Solo",
+"Up to the nines<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/b/b8/Up_to_the_nines.png\">",
 
-"アソシエイト - Gaku Solo",
+"アソシエイト<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/c/c9/Associate.png\">",
 
-"my 10plate - Ryunosuke Solo",
+"my 10plate<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/9/91/My_10plate.png\">",
 
-"100%ハピネス - Momo Solo",
+"100%ハピネス<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/7/7c/100%25_Happiness.png\">",
 
-"奇跡 - Re:vale",
+"奇跡 (Kiseki) <br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/5/5f/Kiseki.png\">",
 
-"星屑マジック - Re:vale",
+"星屑マジック (Hoshikuzu Magic) - Re:vale<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/9/9f/Hoshikuzu_Magic.png\">",
 
-"激情 - Re:vale",
+"激情 (Gekijo)<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/c/cb/Gekijo.png\">",
 
-"千年先もずっと… - Yuki Solo",
+"千年先もずっと…<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/c/c0/Sennen_Saki_mo_Zutto....png\">",
 
-"午前4時のDusty Love - Torao Solo",
+"午前4時のDusty Love<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/8/81/Gozen_4-ji_no_Dusty_Love.png\">",
 
-"Dejavu - Minami Solo",
+"Dejavu<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/1/14/Dejavu.png\">",
 
-"解決ミステリー - Riku & Iori",
+"解決ミステリー<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/e/e9/Kaiketsu_Mystery_%28Single%29.png\">",
 
-"Forever Note - MEZZO''",
+"Forever Note - MEZZO''<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/c/c6/Forever_Note.png\">",
 
-"Monologue Note - Sogo Solo",
+"Monologue Note - Sogo Solo<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/b/bd/Monologue_Note.png\">",
 
-"カレイドスコープ - MEZZO''",
+"カレイドスコープ<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/8/86/Kaleidoscope.png\">",
 
-"Endless - Touma Solo",
+"Endless<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/a/ae/Endless.png\">",
 
-"My Friend - Nagi, Mitsuki, Yamato",
+"My Friend <br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/5/5d/My_Friend_%28Single%29.png\">",
 
-"Labyrinth - Haruka Solo",
+"Labyrinth<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/4/4e/Labyrinth.png\">",
 
-"Mr.AFFECTiON - IDOLiSH7",
+"Mr.AFFECTiON<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/2/20/Mr.AFFECTiON_%28Single%29.png\">",
 
-"ハツコイリズム - IDOLiSH7",
+"ハツコイリズム<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/7/7f/Hatsukoi_Rhythm.png\">",
 
-"Bang!Bang!Bang! - ZOOL",
+"Bang!Bang!Bang!<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/6/62/Bang%21Bang%21Bang%21.png\">",
 
-"ZONE OF OVERLAP - ZOOL",
+"ZONE OF OVERLAP<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/b/bb/ZONE_OF_OVERLAP.png\">",
 
-"Re-raise - Re:vale",
+"Re-raise<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/5/51/Re-raise_%28Single%29.png\">",
 
-"永遠性理論 - Re:vale",
+"永遠性理論<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/f/f8/Eiensei_Riron.png\">",
 
-"t(w)o - Re:vale",
+"t(w)o...<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/3/3f/T%28w%29o....png\">",
 
-"Crescent rise - TRIGGER",
+"Crescent rise<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/9/9c/Crescent_rise.png\">",
 
-"Treasure! - TRIGGER",
+"Treasure!<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/3/3b/Treasure%21.png\">",
 
-"DiSCOVER THE FUTURE - IDOLiSH7",
+"DiSCOVER THE FUTURE<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/c/c6/DiSCOVER_THE_FUTURE_%28Single%29.png\">",
 
-"Everyday Yeah! - IDOLiSH7",
+"Everyday Yeah!<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/c/c1/Everyday_Yeah%21.png\">",
 
-"ミライノーツを奏でて - Re:vale",
+"ミライノーツを奏でて<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/1/13/Mirai_Notes_wo_Kanadete.png\">",
 
-"Fly! More Liberty - Re:vale",
+"Fly! More Liberty<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/f/fb/Fly%21_More_Liberty.png\">",
 
-"My Precious World - TRIGGER",
+"My Precious World<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/8/8e/My_Precious_World.png\">",
 
-"4-ROAR - Zool",
+"4-ROAR - Zool<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/9/92/4-ROAR.png\">",
 
-"Unbalance Shadow - Haruka & Minami",
+"Unbalance Shadow - Haruka & Minami<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/4/47/Unbalance_Shadow.png\">",
 
-"ササゲロ -You Are Mine- - ZOOL",
+"ササゲロ -You Are Mine- - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/2/24/Sasagero_-You_Are_Mine-.png\">",
 
-"Ache - ZOOL",
+"Ache - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/b/b3/Ache.png\">",
 
-"Happy Days Creation! - Re:vale & IDOLiSH7",
+"Happy Days Creation! - Re:vale & IDOLiSH7<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/b/b7/Happy_Days_Creation%21.png\">",
 
-"VALIANT - TRIGGER",
+"VALIANT - TRIGGER<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/3/30/VALIANT.png\">",
 
-"バラツユ - TRIGGER",
+"バラツユ - TRIGGER<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/0/08/Baratsuyu.png\">",
 
-"PLACES - TRIGGER",
+"PLACES - TRIGGER<br /><img width=\"100px\" src=\"https://images.genius.com/03c414a89cfdbe8c861a5d0bb7fe76c6.600x600x1.jpg\">",
 
-"Smile Again - TRIGGER",
+"Smile Again - TRIGGER<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/7/75/Smile_Again.png\">",
 
-"THE Policy - IDOLiSH7",
+"THE Policy - IDOLiSH7<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/3/39/THE_POLiCY.png\">",
 
-"NAGISA Night Temperature - IDOLiSH7",
+"NAGISA Night Temperature - IDOLiSH7<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/c/c2/NAGISA_Night_Temperature.png\">",
 
-"未来絵 - MEZZO''",
+"未来絵<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/d/d6/Miraie.png\">",
 
-"Tears Over ... - MEZZO''",
+"Tears Over〜この星の君と〜<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/0/06/Tears_Over_~Kono_Hoshi_no_Kimi_to~.png\">",
 
-"Boys & Girls - IDOLiSH7",
+"Boys & Girls - IDOLiSH7<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/a/a6/Boys_%26_Girls.png\">",
 
-"Everything is up to us - IDOLiSH7",
+"Everything is up to us - IDOLiSH7<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/7/79/Everything_is_up_to_us.png\">",
 
-"Period Color - Re:vale",
+"Period Color - Re:vale<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/5/53/Period_Color.png\">",
 
-"マロウブルー - IDOLiSH7",
+"マロウブルー - IDOLiSH7<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/0/0e/Mallow_Blue_%28Single%29.png\">",
 
-"Because Now!! - IDOLiSH7",
+"Because Now!! - IDOLiSH7<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/1/16/Because_Now%21%21.png\">",
 
-"Survivor - ZOOL",
+"Survivor - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/f/fa/Survivor.png\">",
 
-"No Sacrifice - ZOOL",
+"No Sacrifice - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/2/24/No_Sacrifice.png\">",
 
-"SUISAI - TRIGGER",
+"SUISAI - TRIGGER<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/3/39/SUISAI.png\">",
 
-"Radiance - TRIGGER",
+"Radiance - TRIGGER<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/7/71/Radiance.png\">",
 
-"HELLO CALLiNG - IDOLiSH7",
+"HELLO CALLiNG - IDOLiSH7<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/a/a4/HELLO_CALLiNG.png\">",
 
-"ココロ, ハレ晴れ - Re:vale",
+"ココロ, ハレ晴れ - Re:vale<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/2/21/Kokoro%2C_Harebare_%28Single%29.png\">",
 
-"Start Rec - Re:vale",
+"Start Rec - Re:vale<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/7/7f/Start_Rec.png\">",
 
-"Storyteller - Re:vale",
+"Storyteller - Re:vale<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/f/f5/Storyteller.png\">",
 
-"夢雫 - Re:vale",
+"夢雫 - Re:vale<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/5/5c/Yume_Shizuku.png\">",
 
-"CROSSOVER ROTATION",
+"CROSSOVER ROTATION<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/f/fc/CROSSOVER_ROTATION_%28Single%29.png\">",
 
-"NEVER LOSE, MY RULE - ZOOL",
+"NEVER LOSE, MY RULE - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/3/31/NEVER_LOSE%2C_MY_RULE.png\">",
 
-"Hidden Region - TRIGGER",
+"Hidden Region - TRIGGER<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/0/0c/Hidden_Region.png\">",
 
-"WONDER LiGHT - IDOLiSH7",
+"WONDER LiGHT - IDOLiSH7<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/7/71/WONDER_LiGHT_%28Single%29.png\">",
 
-"Ardor Life - IDOLiSH7",
+"Ardor Life - IDOLiSH7<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/f/ff/Ardor_Life.png\">",
 
-"IMPERIAL CHAIN - ZOOL",
+"IMPERIAL CHAIN - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/4/46/IMPERIAL_CHAIN_%28Single%29.png\">",
 
-"Murky Oath - ZOOL",
+"Murky Oath - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/1/15/Murky_Oath.png\">",
 
-"BLACK TIGER - ZOOL",
+"BLACK TIGER - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/5/56/BLACK_TIGER.png\">",
 
-"Insomnia - ZOOL",
+"Insomnia - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/6/6a/Insomnia.png\">",
 
-"SUNRIZE - ZOOL",
+"SUNRIZE - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/7/73/SUNRIZE.png\">",
 
-"RIDING - ZOOL",
+"RIDING - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/f/f4/RIDING.png\">",
 
-"カラフル - MEZZO''",
+"カラフル - MEZZO''<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/9/92/Colorful.png\">",
 
-"Smile Navigation - MEZZO''",
+"Smile Navigation - MEZZO''<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/9/92/Colorful.png\">",
 
-"キズナ - MEZZO''",
+"キズナ - MEZZO''<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/0/0b/Kizuna_%28Single%29.png\">",
 
-"フォトフレ-ム - MEZZO''",
+"フォトフレ-ム (Photo Frame) - MEZZO''<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/0/0b/Kizuna_%28Single%29.png\">",
 
-"Utopia - ZOOL",
+"Utopia - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/d/d2/Utopia.png\">",
 
-"TOMORROW EViDENCE - IDOLiSH7",
+"TOMORROW EViDENCE - IDOLiSH7<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/a/a0/TOMORROW_EViDENCE.png\">",
 
-"BE AUTHENTIC - TRIGGER",
+"BE AUTHENTIC - TRIGGER<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/d/dd/Gaku_Yaotome_%28BW_LIVE_SHOWDOWN_2022_2%29.png\">",
 
-"YOUR RHAPSODY - Re:vale",
+"YOUR RHAPSODY - Re:vale<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/0/0b/YOUR_RHAPSODY.png\">",
 
-"Now & Then - Re:vale",
+"Now & Then - Re:vale<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/7/7d/Now_%26_Then.png\">",
 
-"Phenomenon - Gaku & Ryunosuke",
+"Phenomenon<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/2/25/Phenomenon.png\">",
 
-"Incomplete Ruler - Tenn & Riku",
+"Incomplete Ruler<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/2/2d/Incomplete_Ruler.png\">",
 
-"アヤナスビネル - IDOLiSH7",
+"アヤナスビネル - IDOLiSH7<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/e/eb/Ayana_Spinel.png\">",
 
-"NiGHTFALL - IDOLiSH7",
+"NiGHTFALL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/9/94/NiGHTFALL.png\">",
 
-"STRONGER & STRONGER - ZOOL",
+"STRONGER & STRONGER<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/3/30/STRONGER_%26_STRONGER.png\">",
 
-"Journey - Re:vale",
+"Journey<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/0/0c/Journey.png\">",
 
-"BEAUTIFUL PRAYER - TRIGGER",
+"BEAUTIFUL PRAYER<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/3/35/BEAUTIFUL_PRAYER.png\">",
 
-"Pieces of The World - Everybody",
+"Pieces of The World - Everybody<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/7/72/Pieces_of_The_World.png\">",
 
-"Day/Night Disco - IDOLiSH7",
+"Day/Night Disco - IDOLiSH7<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/5/59/DayNight_DiSCO.png\">",
 
-"EVOLUTION - TRIGGER",
+"EVOLUTION - TRIGGER<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/4/49/EVOLUTION.png\">",
 
-"輪舞 - ZOOL",
+"輪舞 RONDO- ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/1/1e/Rondo.png\">",
 
-"DOMINO - ZOOL",
+"DOMINO - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/e/e3/DOMINO.png\">",
 
-"CONQUEROR - ZOOL",
+"CONQUEROR - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/0/06/CONQUEROR.png\">",
 
-"Encounter Love Song - IDOLiSH7",
+"Encounter Love Song - IDOLiSH7<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/f/f5/Encounter_Love_Song.png\">",
 
-"KISS IN THE MUSIC - TRIGGER",
+"KISS IN THE MUSIC - TRIGGER<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/2/24/KISS_IN_THE_MUSIC.png\">",
 
-"compass - Re:vale",
+"compass - Re:vale<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/9/92/Compass.png\">",
 
-"FIRE - ZOOL",
+"FIRE - ZOOL<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/6/6d/FIRE.png\">",
 
-"Polished",
+"Polished<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/0/05/Polished.png\">",
 
-"Take My Rose",
+"Take My Rose<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/8/8d/Take_my_rose.png\">",
 
-"Unfoggy Sight",
+"Unfoggy Sight<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/0/07/Unfoggy_Sight.png\">",
 
-"Chameleon",
+"Chameleon<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/f/f5/Chameleon.png\">",
 
-"ALL ABOARD",
+"ALL ABOARD<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/2/23/ALL_ABOARD%E2%98%86.png\">",
 
-"Don't Analyze Me",
+"Don't Analyze Me<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/b/bb/Don%E2%80%99t_Analyze_Me.png\">",
 
-"Good Good Games",
+"Good Good Games<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/2/23/Good_Good_Games.png\">",
 
-"Haru no Yo no Yume",
+"Haru no Yo no Yume<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/b/be/Haru_no_Yo_no_Yume.png\">",
 
-"Binary Vampire",
+"Binary Vampire<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/3/3f/Binary_Vampire.png\">",
 
-"Never Green",
+"Never Green<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/5/5a/Never_Green.png\">",
 
-"Crescendo",
+"Crescendo<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/b/b1/Crescendo.png\">",
 
-"FANTASY",
+"FANTASY<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/1/18/FANTASY.png\">",
 
-"MEDiUM",
+"MEDiUM<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/2/25/MEDiUM.png\">",
 
-"Touch my magic",
+"Touch my magic<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/4/43/Touch_my_magic.png\">",
 
-"Sunny day smile!",
+"Sunny day smile!<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/thumb/e/eb/Sunny_day_smile%21.png/300px-Sunny_day_smile%21.png\">",
 
-"I believe in...",
+"I believe in...<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/thumb/b/b1/I_believe_in....png/600px-I_believe_in....png\">",
 
-"Captivate Time",
+"Captivate Time<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/e/e4/Captivate_Time.png\">",
 
-"What You Want",
+"What You Want<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/e/e0/What_You_Want.png\">",
 
-"ESCAPE FROM NOW"
+"ESCAPE FROM NOW<br /><img width=\"100px\" src=\"https://static.miraheze.org/idolish7wiki/1/1f/ESCAPE_FROM_NOW.png\">"
  
  
 );
@@ -941,7 +941,7 @@ font-family: 'Times New Roman', erif;
  
 <p class="instructions">
 <center><br /><br />
-<b>SORTER NAME</b><br /><br>pick who you like better in each battle to get an accurate list of your<br />favorite members from the group.<br />note: hitting 'no opinion' or 'I like both' frequently will negatively affect your results.<br /><br /></center>
+<b>ULTIMATE IDOLiSH7 SONG SORTER</b><br /><br>Use this sorter to help determine your IDOLiSH7 franchise song rankings!.<br /><br /></center>
  
  
  
@@ -961,10 +961,6 @@ font-family: 'Times New Roman', erif;
  
 <td id="leftField" onclick="if(finishFlag==0) sortList(-1);" rowspan="2" style="text-align:center;"></td>
  
-<td class="middleField" onclick="if(finishFlag==0) sortList(0);" style="text-align:center;">
- 
-I like both
- 
 </td>
  
 <td id="rightField" onclick="if(finishFlag==0) sortList(1);" rowspan="2"style="text-align:center;"></td>
@@ -972,10 +968,6 @@ I like both
 </tr>
  
 <tr>
- 
-<td class="middleField" onclick="if(finishFlag==0) sortList(0);"style="text-align:center;">
- 
-no opinion
  
 </td>
  
