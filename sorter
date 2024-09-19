@@ -19,15 +19,341 @@
  
 var namMember = new Array(
  
-"option 1",
- 
-"option 2",
- 
-"option 3",
- 
-"option 4",
- 
-"option 5"
+"MONSTER GENERATiON - IDOLiSH7",
+
+"Joker Flag - IDOLiSH7",
+
+"MEMORiES MELODiES - IDOLiSH7",
+
+"SECRET NIGHT - TRIGGER",
+
+"NATSU しおぜ - TRIGGER",
+
+"Leopard Eyes - TRIGGER",
+
+"GOOD NIGHT AWESOME - IDOLiSH7",
+
+"ピタゴラス ファイタ- - Mitsuki, Nagi, Yamato",
+
+"Fly Away! - Riku & Iori",
+
+"恋のかけら - MEZZO"",
+
+"miss you... - MEZZO"",
+
+"SILVER SKY - Re:vale",
+
+"Dis one. - Re:vale",
+
+"NATSU しおぜ - IDOLiSH7",
+
+"NATSU しおぜ - IDOLiSH7 & TRIGGER",
+
+"Perfection Gimmick  - IDOLiSH7",
+
+"RESTART POiNTER - IDOLiSH7",
+
+"THE FUNKY UNIVERSE - IDOLiSH7",
+
+"THANK YOU FOR YOUR EVERYTHING - IDOLiSH7",
+
+"Last Dimension - TRIGGER",
+
+"男子タルモノ！～MATSURI～ - Nagi, Mitsuki, Yamato, Gaku",
+
+"LOVE&GAME - Sogo, Tamaki, Ryunosuke",
+
+"フレフレ！青春賛歌 - Riku, Tenn, Iori",
+
+"TO MY DEAREST - Re:vale",
+
+"月明かりイルミネイト - MEZZO"",
+
+"Sakura Message - IDOLiSH7",
+
+"PARTY TIME TOGETHER - IDOLiSH7",
+
+"Poisonous Gangster - ZOOL",
+
+"LOOK AT... - ZOOL",
+
+"願いはShine On The Sea - TRIGGER",
+
+"In the meantime - TRIGGER",
+
+"DAYBREAK INTERLUDE - TRIGGER",
+
+"DESTINY - TRIGGER",
+
+"Riskyな彼女 - Ryunosuke Solo",
+
+"幸せでいて - Gaku Solo",
+
+"U COMPLETE ME - Tenn Solo",
+
+"Dear Butterfly - MEZZO"",
+
+"NO DOUBT - Re:vale",
+
+"太陽のEsperanza - Re:vale",
+
+"ONE dream - Iori Solo",
+
+"WiSH VOYAGE - IDOLiSH7",
+
+"Dancing BEAT! - IDOLiSH7",
+
+"Love two you - Yamato Solo",
+
+"Heavenly Visitor - TRIGGER",
+
+"DIAMOND FUSION - TRIGGER",
+
+"三日月のヴェール - Mitsuki Solo",
+
+"雨 - MEZZO"",
+
+"甘さひかえめ - MEZZO"",
+
+"Four Leaf Ring - Tamaki Solo",
+
+"Maybe - Sogo Solo",
+
+"ナナツイロ REALiZE - IDOLiSH7",
+
+"Viva! Fantastic Life!!!!!!! - IDOLiSH7",
+
+"June is Natural - Nagi Solo",
+
+"SEPTET for... - Riku Solo",
+
+"Up to the nines - Tenn Solo",
+
+"アソシエイト - Gaku Solo",
+
+"my 10plate - Ryunosuke Solo",
+
+"100%ハピネス - Momo Solo",
+
+"奇跡 - Re:vale",
+
+"星屑マジック - Re:vale",
+
+"激情 - Re:vale",
+
+"千年先もずっと… - Yuki Solo",
+
+"午前4時のDusty Love - Torao Solo",
+
+"Dejavu - Minami Solo",
+
+"解決ミステリー - Riku & Iori",
+
+"Forever Note - MEZZO"",
+
+"Monologue Note - Sogo Solo",
+
+"カレイドスコープ - MEZZO"",
+
+"Endless - Touma Solo",
+
+"My Friend - Nagi, Mitsuki, Yamato",
+
+"Labyrinth - Haruka Solo",
+
+"Mr.AFFECTiON - IDOLiSH7",
+
+"ハツコイリズム - IDOLiSH7",
+
+"Bang!Bang!Bang! - ZOOL",
+
+"ZONE OF OVERLAP - ZOOL",
+
+"Re-raise - Re:vale",
+
+"永遠性理論 - Re:vale",
+
+"t(w)o - Re:vale",
+
+"Crescent rise - TRIGGER",
+
+"Treasure! - TRIGGER",
+
+"DiSCOVER THE FUTURE - IDOLiSH7",
+
+"Everyday Yeah! - IDOLiSH7",
+
+"ミライノーツを奏でて - Re:vale",
+
+"Fly! More Liberty - Re:vale",
+
+"My Precious World - TRIGGER",
+
+"4-ROAR - Zool",
+
+"Unbalance Shadow - Haruka & Minami",
+
+"ササゲロ -You Are Mine- - ZOOL",
+
+"Ache - ZOOL",
+
+"Happy Days Creation! - Re:vale & IDOLiSH7",
+
+"VALIANT - TRIGGER",
+
+"バラツユ - TRIGGER",
+
+"PLACES - TRIGGER",
+
+"Smile Again - TRIGGER",
+
+"THE Policy - IDOLiSH7",
+
+"NAGISA Night Temperature - IDOLiSH7",
+
+"未来絵 - MEZZO"",
+
+"Tears Over ... - MEZZO"",
+
+"Boys & Girls - IDOLiSH7",
+
+"Everything is up to us - IDOLiSH7",
+
+"Period Color - Re:vale",
+
+"マロウブルー - IDOLiSH7",
+
+"Because Now!! - IDOLiSH7",
+
+"Survivor - ZOOL",
+
+"No Sacrifice - ZOOL",
+
+"SUISAI - TRIGGER",
+
+"Radiance - TRIGGER",
+
+"HELLO CALLiNG - IDOLiSH7",
+
+"ココロ, ハレ晴れ - Re:vale",
+
+"Start Rec - Re:vale",
+
+"Storyteller - Re:vale",
+
+"夢雫 - Re:vale",
+
+"CROSSOVER ROTATION",
+
+"NEVER LOSE, MY RULE - ZOOL",
+
+"Hidden Region - TRIGGER",
+
+"WONDER LiGHT - IDOLiSH7",
+
+"Ardor Life - IDOLiSH7",
+
+"IMPERIAL CHAIN - ZOOL",
+
+"Murky Oath - ZOOL",
+
+"BLACK TIGER - ZOOL",
+
+"Insomnia - ZOOL",
+
+"SUNRIZE - ZOOL",
+
+"RIDING - ZOOL",
+
+"カラフル - MEZZO"",
+
+"Smile Navigation - MEZZO"",
+
+"キズナ - MEZZO"",
+
+"フォトフレ-ム - MEZZO"",
+
+"Utopia - ZOOL",
+
+"TOMORROW EViDENCE - IDOLiSH7",
+
+"BE AUTHENTIC - TRIGGER",
+
+"YOUR RHAPSODY - Re:vale",
+
+"Now & Then - Re:vale",
+
+"Phenomenon - Gaku & Ryunosuke",
+
+"Incomplete Ruler - Tenn & Riku",
+
+"アヤナスビネル - IDOLiSH7",
+
+"NiGHTFALL - IDOLiSH7",
+
+"STRONGER & STRONGER - ZOOL",
+
+"Journey - Re:vale",
+
+"BEAUTIFUL PRAYER - TRIGGER",
+
+"Pieces of The World - Everybody",
+
+"Day/Night Disco - IDOLiSH7",
+
+"EVOLUTION - TRIGGER",
+
+"輪舞 - ZOOL",
+
+"DOMINO - ZOOL",
+
+"CONQUEROR - ZOOL",
+
+"Encounter Love Song - IDOLiSH7",
+
+"KISS IN THE MUSIC - TRIGGER",
+
+"compass - Re:vale",
+
+"FIRE - ZOOL",
+
+"Polished",
+
+"Take My Rose",
+
+"Unfoggy Sight",
+
+"Chameleon",
+
+"ALL ABOARD",
+
+"Don't Analyze Me",
+
+"Good Good Games",
+
+"Haru no Yo no Yume",
+
+"Binary Vampire",
+
+"Never Green",
+
+"Crescendo",
+
+"FANTASY",
+
+"MEDiUM",
+
+"Touch my magic",
+
+"Sunny day smile!",
+
+"I believe in...",
+
+"Captivate Time",
+
+"What You Want",
+
+"ESCAPE FROM NOW"
  
  
 );
